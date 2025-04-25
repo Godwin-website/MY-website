@@ -1,0 +1,112 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color:darkslategrey;
+}
+.container{
+    overflow:hidden;
+}
+header {
+    text-align:center;
+    color:white;
+    font-size:15px;
+}
+header li{
+    text-align:center;
+    padding:20px;
+    display:inline-block;
+}
+header a{
+    color:white;
+}
+#nav{
+    float:right;
+}
+#photo{
+    background:url("../img/photo.jpg");
+    background-size:cover;
+    background-position:center;
+    height: 900px;
+    padding:10px; 
+
+}
+#photo h1{
+    text-align:center;
+    color:white;
+    font-size:30px;
+    padding:10px;
+}
+header nav{
+    text-align:left;
+}
+#photo p{
+    text-align:center;
+    color:white;
+    font-size:30px;
+    padding:15px;
+}
+
+#customer{
+    float:left;
+    background-color:blue;
+    color:white;
+    font-size:15px;
+    text-align:center;
+    height: 600px;
+    width: 500px;
+}
+#customer p{
+    padding:10px;
+}
+
+#college{
+    background:url("../img/college.jpg");
+    background-size:cover;
+    float:left;
+    height:400px;
+    width:400px;
+    text-align:center;
+    margin-right: 15px;
+    margin-left:15px;
+}
+#school{
+    background:url("../img/school.jpg");
+    background-size:cover;
+    height:400px;
+    float:right;
+    margin-right: 50px;
+    margin-left:15px;
+    width:400px;
+    color:white;
+    font-size:20px;
+    text-align:center;
+}
+#pixels{
+    background:url("../img/pixels.jpg");
+    background-size:cover;
+    height:400px;
+    width:400px;
+    float:right;
+    margin-left:15px;
+    margin-right:15px;
+}
+#college p{
+padding:30px;
+color:white;
+}
+#oxford{
+    float:right;
+    color:white;
+    background-color:burlywood;
+    height:600px;
+    width:500px;
+    text-align:center;
+}
+
+
+
+
+
+
+
+
